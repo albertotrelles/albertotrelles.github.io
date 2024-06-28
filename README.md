@@ -19,6 +19,10 @@
 - Webscrapping top100 cryptocurrencies [Repo]
 
 ## Relevant Coursework 
+- Econometrics I, II
+- Advanced Mathematics (Graduate Level)
+- Real Analysis
+- Stocastich Processes 
 
 ## Causal Machine Learning Course
 - Workgroup 1
