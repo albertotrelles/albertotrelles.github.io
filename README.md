@@ -1,4 +1,5 @@
 #### Techincal Skills: Stata, R, Python, Julia, LaTex 
+#### Contact information: albertotrellesd@gmail.com
 
 ## About Me
 I am Alberto Trelles Derteano, a 9th semester economics student at Universidad del Pacífico. I'm passionate about econometric theory and methods, and their applications to answer research questions in development economics. 
