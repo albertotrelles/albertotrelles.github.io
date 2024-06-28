@@ -1,5 +1,3 @@
-# albertotrelles.github.io
-
 #### Techincal Skills: Stata, R, Python, Julia, LaTex 
 
 ## Education
