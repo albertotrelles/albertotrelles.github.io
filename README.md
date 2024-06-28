@@ -34,7 +34,7 @@
 - [Workgroup 5](https://github.com/albertotrelles/Causal-ML-Course-2024-I-/tree/main/workgroup5)
 
 ## References
-- [Manuel Fernando Barrón Ayllón](https://www.ocf.berkeley.edu/~manuelb/)
-- [Román Andrés Zárate Vásquez](https://www.razarate.com/)
+- [Manuel Fernando Barrón Ayllón](https://www.ocf.berkeley.edu/~manuelb/) - Associate Professor at Universidad del Pacífico
+- [Román Andrés Zárate Vásquez](https://www.razarate.com/) - Associate Professor at University of Toronto 
 
 
