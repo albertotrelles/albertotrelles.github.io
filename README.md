@@ -2,7 +2,7 @@
 #### Contact information: albertotrellesd@gmail.com
 
 ## About Me
-I am Alberto Trelles Derteano, a 9th semester economics student at Universidad del Pacífico. I'm passionate about econometric theory and methods, and their applications to answer research questions in development economics. 
+I am Alberto Trelles Derteano, a 9th semester economics student at Universidad del Pacífico. I'm passionate about econometric theory and methods, and their applications to answer research questions in development economics. I'm expected to graduate by december 2024 with a double minor in Applied Mathematics and Economic Theory.  
 
 I currently work for Professor [Manuel Barrón](https://www.ocf.berkeley.edu/~manuelb/) as a Research Assistant at the Research Center of Universidad del Pacífico (CIUP) as well as a Teaching Assistant for his class of Econometrics I. Here is my [CV](https://github.com/albertotrelles/albertotrelles.github.io/blob/main/CV.pdf)
 
