@@ -6,7 +6,7 @@ I am Alberto Trelles Derteano, a 9th semester economics student at Universidad d
 I currently work for Professor [Manuel Barrón](https://www.ocf.berkeley.edu/~manuelb/) as a Research Assistant at the Research Center of Universidad del Pacífico (CIUP) as well as a Teaching Assistant for his class of Econometrics I. 
 
 ## Education
-- B.S. Economics Candidate | Universidad del Pacífico (Jan 2020 - Present)
+- B.S. Economics Candidate (top 10%) | Universidad del Pacífico (Jan 2020 - Present)
   
 ## Work Experience
 
