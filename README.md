@@ -27,11 +27,11 @@
 - Stocastich Processes 
 
 ## Causal Machine Learning Course
-- Workgroup 1
-- Workgroup 2
-- Workgroup 3
-- Workgroup 4
-- Workgroup 5
+- [Workgroup 1](https://github.com/albertotrelles/Causal-ML-Course-2024-I-/tree/main/workgroup1)
+- [Workgroup 2](https://github.com/albertotrelles/Causal-ML-Course-2024-I-/tree/main/workgroup2)
+- [Workgroup 3](https://github.com/albertotrelles/Causal-ML-Course-2024-I-/tree/main/workgroup3)
+- [Workgroup 4](https://github.com/albertotrelles/Causal-ML-Course-2024-I-/tree/main/workgroup4)
+- [Workgroup 5](https://github.com/albertotrelles/Causal-ML-Course-2024-I-/tree/main/workgroup5)
 
 ## References
 - [Manuel Fernando Barrón Ayllón](https://www.ocf.berkeley.edu/~manuelb/)
