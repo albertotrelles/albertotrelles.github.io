@@ -24,7 +24,7 @@
 - Econometrics I, II
 - Advanced Mathematics (Graduate Level)
 - Real Analysis
-- Stocastich Processes 
+- Stochastic Processes 
 
 ## Causal Machine Learning Course
 - [Workgroup 1](https://github.com/albertotrelles/Causal-ML-Course-2024-I-/tree/main/workgroup1)
