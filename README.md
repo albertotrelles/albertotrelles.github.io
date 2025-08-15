@@ -2,12 +2,12 @@
 #### Contact information: albertotrellesd@gmail.com
 
 ## About Me
-I am Alberto Trelles Derteano, a 9th semester economics student at Universidad del Pacífico. I'm passionate about econometric theory and methods, and their applications to answer research questions in development economics. I'm expected to graduate by december 2024 with a double minor in Applied Mathematics and Economic Theory.  
+I am Alberto Trelles Derteano, a recent graduate from Universidad del Pacífico. I'm passionate about econometric theory and methods, and their applications to answer research questions in development and political economics. I'm expected to graduate by december 2024 with a double minor in Applied Mathematics and Economic Theory.  
 
-I currently work for Professor [Manuel Barrón](https://www.ocf.berkeley.edu/~manuelb/) as a Research Assistant at the Research Center of Universidad del Pacífico (CIUP) as well as a Teaching Assistant for his class of Econometrics I. Here is my [CV](https://github.com/albertotrelles/albertotrelles.github.io/blob/main/CV.pdf)
+I currently work for Professor [Manuel Barrón](https://www.ocf.berkeley.edu/~manuelb/) as a Research Assistant at the Research Center of Universidad del Pacífico (CIUP). Here is my [CV](https://github.com/albertotrelles/albertotrelles.github.io/blob/main/CV.pdf)
 
 ## Education
-- B.S. Economics Candidate (top 10%) | Universidad del Pacífico (Jan 2020 - Present)
+- B.S. Economics | Universidad del Pacífico (Jan 2020 - June 2025)
   
 ## Work Experience
 
@@ -16,8 +16,9 @@ I currently work for Professor [Manuel Barrón](https://www.ocf.berkeley.edu/~ma
 - Tables, graphs, and results presentation
 
 **Teaching Assistant | Universidad del Pacífico (Aug 2023 - Present)**
-- Teached tutorial classes for Econometrics I
-- Elaborated and corrected evaluations
+- Econometrics I
+- Microeconomis II
+- Mathematics I
 
 ## Projects
 - [Trust Game Lab Experiment](https://github.com/albertotrelles/Trust_Game)
@@ -28,7 +29,8 @@ I currently work for Professor [Manuel Barrón](https://www.ocf.berkeley.edu/~ma
 - Econometrics I, II
 - Advanced Mathematics (Graduate Level)
 - Real Analysis
-- Stochastic Processes 
+- Stochastic Processes
+- Numerical Methods
 
 ## Causal Machine Learning Course
 - [Workgroup 1](https://github.com/albertotrelles/Causal-ML-Course-2024-I-/tree/main/workgroup1)
