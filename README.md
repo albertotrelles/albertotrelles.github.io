@@ -2,8 +2,7 @@
 #### Contact information: albertotrellesd@gmail.com
 
 ## About Me
-I am Alberto Trelles Derteano, a recent graduate from Universidad del Pacífico. I'm passionate about econometric theory and methods, and their applications to answer research questions in development and political economics. I'm expected to graduate by december 2024 with a double minor in Applied Mathematics and Economic Theory.  
-
+I am Alberto Trelles Derteano, a recent graduate from Universidad del Pacífico. I'm passionate about econometric theory and methods, and their applications to answer research questions in development and political economics. I graduated with a double minor in theoretical economics and applied mathematics. 
 I currently work for Professor [Manuel Barrón](https://www.ocf.berkeley.edu/~manuelb/) as a Research Assistant at the Research Center of Universidad del Pacífico (CIUP). Here is my [CV](https://github.com/albertotrelles/albertotrelles.github.io/blob/main/CV.pdf)
 
 ## Education
